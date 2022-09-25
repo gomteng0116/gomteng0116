@@ -1,6 +1,6 @@
 # Hello!
 Im a middle school student
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![gomteng's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomteng0116&show_icons=true&theme=radical)
 
 Have a good day!
